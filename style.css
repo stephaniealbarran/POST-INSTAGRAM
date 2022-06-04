@@ -70,9 +70,13 @@ div.container {
 }
 .tres {
     margin-top: 20px;
+    margin-left: 15px;
 }
 .cuatro {
     margin-top: 10px;
+    margin-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
 }
 .cinco {
     margin-top: 10px;
